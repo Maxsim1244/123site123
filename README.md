@@ -1,2 +1,2 @@
-# https://maxsim1244.github.io/123site123/
+# https://maxsim1244.github.io/Yandex-Praktikum-Site/
 Сайт сделанный мной на курсе Яндекс практикум 
